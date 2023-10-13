@@ -1,7 +1,0 @@
--r common.txt
-
-django-storages[azure]
-gunicorn
-dataclasses
-psycopg2-binary
-sentry_sdk
